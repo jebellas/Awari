@@ -1,0 +1,27 @@
+/* * {
+    margin: 0px;
+}
+
+html {
+    height: 100%;
+} */
+
+body {
+    align-items: center;
+    background-color: lightgrey;
+    display: flexbox;
+    height: 100%;
+    justify-content: center;
+}
+h1 {
+    align-items: center;
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+
+p {
+    color: red;
+    font-family: verdana;
+    font-size: 160%;
+}
