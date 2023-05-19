@@ -14,7 +14,7 @@ function handleSubmit(event) {
     //console.log(nome, email, mensagem);
     console.log(resultado);
 
-    alert(resultado);
+    //alert(resultado);
 
 }
 
